@@ -1,0 +1,549 @@
+{
+  "content": [
+    {
+      "path": "de-DE.locPak",
+      "size": 1629,
+      "date": 132408473275224770
+    },
+    {
+      "path": "en-US.locPak",
+      "size": 1327,
+      "date": 132408473275214780
+    },
+    {
+      "path": "es-ES.locPak",
+      "size": 1525,
+      "date": 132408473275204783
+    },
+    {
+      "path": "fr-FR.locPak",
+      "size": 1584,
+      "date": 132408473275224770
+    },
+    {
+      "path": "it-IT.locPak",
+      "size": 1493,
+      "date": 132408473275234782
+    },
+    {
+      "path": "pl-PL.locPak",
+      "size": 1639,
+      "date": 132408473275204783
+    },
+    {
+      "path": "pt-BR.locPak",
+      "size": 1485,
+      "date": 132408473275194773
+    },
+    {
+      "path": "ru-RU.locPak",
+      "size": 2166,
+      "date": 132408473275214780
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/aircraft.cfg",
+      "size": 3852,
+      "date": 132361718920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_AIRFRAME_DECALS_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400142182757240
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_AIRFRAME_DECALS_ALBD.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132246959920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400142182677245
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_AIRFRAME_DETAILS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400141914909996
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_AIRFRAME_DETAILS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400141914869995
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_AIRFRAME_EMISSIVE_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400141899542978
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_AIRFRAME_EMISSIVE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400141899262988
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400142197407548
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400142197367546
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_AIRFRAME_LIVERY_DECALS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400142136086779
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_AIRFRAME_LIVERY_DECALS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400142136046778
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_AIRFRAME_PROP_BLURRED_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400141963389082
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_AIRFRAME_PROP_BLURRED_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400141963319086
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_AIRFRAME_PROP_STILL_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400141987386123
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_AIRFRAME_PROP_STILL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400141987346118
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_AIRFRAME_RIVETS_ALBD.PNG.DDS",
+      "size": 349680,
+      "date": 132400142117154474
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_AIRFRAME_RIVETS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400142116894484
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_AIRFRAME_WHEEL_BLURRED_ALBD.PNG.DDS",
+      "size": 349680,
+      "date": 132400142188287819
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_AIRFRAME_WHEEL_BLURRED_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400142188257823
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_AIRFRAME_WHEEL_STILL_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400142125911332
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_AIRFRAME_WHEEL_STILL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400142125871332
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400141906563581
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400141906513582
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_COCKPIT_ALPHA_ALBD.PNG.DDS",
+      "size": 87536,
+      "date": 132400142286626652
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_COCKPIT_ALPHA_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400142286606649
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_COCKPIT_CARBON_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400142401144607
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_COCKPIT_CARBON_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400142401104607
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_COCKPIT_DECAL_TEXT_ALBD.TIF.DDS",
+      "size": 1398256,
+      "date": 132400142394828754
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_COCKPIT_DECAL_TEXT_ALBD.TIF.DDS.FLAGS",
+      "size": 18,
+      "date": 132246959950000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_COCKPIT_DECAL_TEXT_ALBD.TIF.DDS.json",
+      "size": 119,
+      "date": 132400142394788751
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_COCKPIT_DECALS_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 132400142293707268
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_COCKPIT_DECALS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400142293677268
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_COCKPIT_EMISSIVE_ALBD.PNG.DDS",
+      "size": 312,
+      "date": 132400142301357037
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_COCKPIT_EMISSIVE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400142301347040
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_COCKPIT_EMISSIVE_EMIS.PNG.DDS",
+      "size": 43832,
+      "date": 132400142345429974
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_COCKPIT_EMISSIVE_EMIS.PNG.DDS.json",
+      "size": 102,
+      "date": 132400142345409974
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_COCKPIT_INPUTS_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400142510959501
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_COCKPIT_INPUTS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400142510889502
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_COCKPIT_MAIN_INTERIOR_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400142284796699
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_COCKPIT_MAIN_INTERIOR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400142284746707
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_COCKPIT_SEATS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400142407778994
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_COCKPIT_SEATS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400142407728992
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_COCKPIT_SECONDARY_INTERIOR_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400142567929234
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_COCKPIT_SECONDARY_INTERIOR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400142567889236
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/CUB_CRAFTER_XCUB_COCKPIT_SECONDARY_INTERIOR_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132400142386378960
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/FLIGHT_SIMULATOR_LOGO.PNG.DDS",
+      "size": 496,
+      "date": 132400141888097721
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/FLIGHT_SIMULATOR_LOGO.PNG.DDS.json",
+      "size": 119,
+      "date": 132400141888087725
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/texture.CFG",
+      "size": 276,
+      "date": 132222576070000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/thumbnail.JPG",
+      "size": 239513,
+      "date": 132200099940000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.ORANGE/thumbnail_small.JPG",
+      "size": 34190,
+      "date": 132270114880000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_AIRFRAME_DECALS_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400142182757240
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_AIRFRAME_DECALS_ALBD.PNG.DDS.FLAGS",
+      "size": 18,
+      "date": 132246959920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400142182677245
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_AIRFRAME_DETAILS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400141914909996
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_AIRFRAME_DETAILS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400141914869995
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_AIRFRAME_EMISSIVE_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400141899542978
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_AIRFRAME_EMISSIVE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400141899262988
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400142197407548
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400142197367546
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_AIRFRAME_LIVERY_DECALS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400142136086779
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_AIRFRAME_LIVERY_DECALS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400142136046778
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_AIRFRAME_PROP_BLURRED_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400141963389082
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_AIRFRAME_PROP_BLURRED_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400141963319086
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_AIRFRAME_PROP_STILL_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400141987386123
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_AIRFRAME_PROP_STILL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400141987346118
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_AIRFRAME_RIVETS_ALBD.PNG.DDS",
+      "size": 349680,
+      "date": 132400142117154474
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_AIRFRAME_RIVETS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400142116894484
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_AIRFRAME_WHEEL_BLURRED_ALBD.PNG.DDS",
+      "size": 349680,
+      "date": 132400142188287819
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_AIRFRAME_WHEEL_BLURRED_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400142188257823
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_AIRFRAME_WHEEL_STILL_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400142125911332
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_AIRFRAME_WHEEL_STILL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400142125871332
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400141906563581
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400141906513582
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_COCKPIT_ALPHA_ALBD.PNG.DDS",
+      "size": 87536,
+      "date": 132400142286626652
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_COCKPIT_ALPHA_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400142286606649
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_COCKPIT_CARBON_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400142401144607
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_COCKPIT_CARBON_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400142401104607
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_COCKPIT_DECAL_TEXT_ALBD.TIF.DDS",
+      "size": 1398256,
+      "date": 132400142394828754
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_COCKPIT_DECAL_TEXT_ALBD.TIF.DDS.FLAGS",
+      "size": 18,
+      "date": 132246959950000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_COCKPIT_DECAL_TEXT_ALBD.TIF.DDS.json",
+      "size": 119,
+      "date": 132400142394788751
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_COCKPIT_DECALS_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 132400142293707268
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_COCKPIT_DECALS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400142293677268
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_COCKPIT_EMISSIVE_ALBD.PNG.DDS",
+      "size": 312,
+      "date": 132400142301357037
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_COCKPIT_EMISSIVE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400142301347040
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_COCKPIT_EMISSIVE_EMIS.PNG.DDS",
+      "size": 43832,
+      "date": 132400142345429974
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_COCKPIT_EMISSIVE_EMIS.PNG.DDS.json",
+      "size": 102,
+      "date": 132400142345409974
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_COCKPIT_INPUTS_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132400142510959501
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_COCKPIT_INPUTS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132400142510889502
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_COCKPIT_MAIN_INTERIOR_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400142284796699
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_COCKPIT_MAIN_INTERIOR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400142284746707
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_COCKPIT_SEATS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400142407778994
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_COCKPIT_SEATS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400142407728992
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_COCKPIT_SECONDARY_INTERIOR_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132400142567929234
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_COCKPIT_SECONDARY_INTERIOR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400142567889236
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/CUB_CRAFTER_XCUB_COCKPIT_SECONDARY_INTERIOR_COMP.PNG.DDS.json",
+      "size": 191,
+      "date": 132400142386378960
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/FLIGHT_SIMULATOR_LOGO.PNG.DDS",
+      "size": 496,
+      "date": 132400141888097721
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/FLIGHT_SIMULATOR_LOGO.PNG.DDS.json",
+      "size": 119,
+      "date": 132400141888087725
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/texture.CFG",
+      "size": 276,
+      "date": 132222576070000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/thumbnail.JPG",
+      "size": 239513,
+      "date": 132200099940000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_XCub/TEXTURE.YELLOW/thumbnail_small.JPG",
+      "size": 34190,
+      "date": 132270114880000000
+    }
+  ]
+}
