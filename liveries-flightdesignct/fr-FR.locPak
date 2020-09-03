@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "fr-FR",
+    "Strings": {
+      "AIRCRAFT.DESCRIPTION": "Dans les années 80, Flight Design a construit des planeurs et des parapentes en Allemagne, avant de se tourner vers les avions ultralégers en 1993. Puis en 1996, leur expertise s'est concentrée sur une série CT (« Composite Technology ») d'avions sportifs ultralégers et légers deux places à ailes hautes et train d'atterrissage tricycle.<br><br>Depuis sa création, la gamme CT fait partie des SLSA les plus vendus en Amérique et autres nations autour du monde, avec plus de 1 900 avions en service dans 42 pays -- preuve de la qualité de sa conception, de la précision de sa fabrication et de ses finitions.<br><br>Fabriquée principalement en fibre de carbone et Kevlar, la gamme CT est légère et résistante -- et arbore une esthétique bien particulière : le fuselage en « capsule » profilé et aérodynamique est inspiré des innovations en matière de sécurité dans l'industrie automobile, son assemblage de Plexiglas en forme de « bulle » offre une visibilité dans le cockpit exceptionnelle, et ses élégantes ailes de type planeur affichent un meilleur taux de vol plané que la plupart des avions et LSA.<br><br>Avec le modèle CTSL (« Supralight », Ultraléger), Flight Design ont fait évoluer leur conception avec succès pour rentrer dans la catégorie Ultraléger de la Fédération Aéronautique Internationale, sans faire de compromis. Grâce à son moteur Rotax 912 pilotant une hélice composite à 3 pales Neuform, ce CT est rapide au sol comme en montée, silencieux et efficient. Plus important, ce n'est pas qu'un avion superléger de loisir -- il est très agréable à piloter.",
+      "AIRCRAFT.UI_MANUFACTURER": "Flight Design",
+      "AIRCRAFT.UI_MODEL": "Flight Design CTSL"
+    }
+  }
+}

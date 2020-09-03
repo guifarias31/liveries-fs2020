@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "pl-PL",
+    "Strings": {
+      "AIRCRAFT.DESCRIPTION": "W latach 80. XX wieku niemiecka firma Flight Design wytwarzała lotnie i paralotnie, by w roku 1993 skupić się na produkcji samolotów ultralekkich. W 1996 roku zgromadzone przez jej pracowników doświadczenie zaowocowało serią wykonanych z kompozytów dwuosobowych ultralekkich górnopłatów CT (od „Composite Technology”).<br><br>Od momentu premiery samoloty serii CT należą do najpopularniejszych samolotów klasy SLSA w Stanach Zjednoczonych i nie tylko. W 42 krajach lata ponad 1900 egzemplarzy tych modeli, co dobitnie świadczy o klasie ich wykonania, inżynieryjnej precyzji oraz jakości wykonania.<br><br>Budowane głównie z kompozytów zbrojonych włóknem węglowym i kevlarem modele z serii CT są lekkie i wytrzymałe, a także po prostu ładne, dzięki opływowemu kadłubowi o obłym kształcie inspirowanym rozwiązaniami w zakresie bezpieczeństwa stosowanymi w przemyśle motoryzacyjnym. Wykonana z pleksiglasu zaokrąglone oszklenie zapewnia wyśmienitą widzialność z kabiny, a eleganckie skrzydło, podobne do stosowanych w szybowcach, daje większą doskonałość aerodynamiczną, niż skrzydła większości samolotów certyfikowanych i LSA.<br><br>Model CTSL („Supralight”) stanowi bezkompromisową kontynuację udanego projektu samolotów tworzonych w ustalonej przez organizację Fédération Aéronautique Internationale kategorii samolotów ultralekkich. Napędzane silnikiem Rotax 912 trójłopatowe śmigło kompozytowe marki Neuform sprawia, że samolot ten jest szybki na ziemi i potrafi szybko się wznosić, a w powietrzu jest cichy i oszczędny. Jednak najważniejsze, co oferuje ten rekreacyjny superlekki samolot, to prawdziwa radość z latania.",
+      "AIRCRAFT.UI_MANUFACTURER": "Flight Design",
+      "AIRCRAFT.UI_MODEL": "Flight Design CTSL"
+    }
+  }
+}

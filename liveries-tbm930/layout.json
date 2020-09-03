@@ -1,0 +1,79 @@
+{
+  "content": [
+    {
+      "path": "de-DE.locPak",
+      "size": 8197,
+      "date": 132408490116516963
+    },
+    {
+      "path": "en-US.locPak",
+      "size": 7292,
+      "date": 132408490116496969
+    },
+    {
+      "path": "es-ES.locPak",
+      "size": 8144,
+      "date": 132408490116476964
+    },
+    {
+      "path": "fr-FR.locPak",
+      "size": 8753,
+      "date": 132408490116516963
+    },
+    {
+      "path": "it-IT.locPak",
+      "size": 8337,
+      "date": 132408490116526964
+    },
+    {
+      "path": "pl-PL.locPak",
+      "size": 8373,
+      "date": 132408490116486963
+    },
+    {
+      "path": "pt-BR.locPak",
+      "size": 7968,
+      "date": 132408490116466963
+    },
+    {
+      "path": "ru-RU.locPak",
+      "size": 11363,
+      "date": 132408490116506966
+    },
+    {
+      "path": "zh-CN.locPak",
+      "size": 7172,
+      "date": 132408490116486963
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930/aircraft.cfg",
+      "size": 10636,
+      "date": 132361718400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930/TEXTURE.BLUE/TBM_930_AIRFRAME_DECALS_ALBD.PNG.DDS",
+      "size": 2872,
+      "date": 132400219989899087
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930/TEXTURE.BLUE/TBM_930_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400219989879085
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930/TEXTURE.BLUE/texture.CFG",
+      "size": 124,
+      "date": 132144142360000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930/TEXTURE.BLUE/thumbnail.JPG",
+      "size": 169547,
+      "date": 132297799530000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930/TEXTURE.BLUE/thumbnail_small.JPG",
+      "size": 33090,
+      "date": 132297799660000000
+    }
+  ]
+}

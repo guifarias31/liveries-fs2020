@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "it-IT",
+    "Strings": {
+      "AIRCRAFT.DESCRIPTION": "Flight Design, con sede in Germania, trascorre gli anni '80 nella costruzione di deltaplani e parapendii, prima di dedicarsi a un aeromobile ultraleggero nel 1993. Nel 1996 mette la propria esperienza al servizio della serie CT (tecnologia composita) di aeromobili biposto sportivi leggeri e ultraleggeri ad alta ala e carrello triciclo.<br><br>Sin dal lancio, la linea CT rimane una delle serie di aeromobili sportivi leggeri speciali più venduta in America e in diversi paesi di tutto il mondo, con oltre 1.900 unità in volo in 42 stati, a testimonianza della qualità di design, della precisione ingegneristica e delle finiture.<br><br>Realizzata principalmente in fibra di carbonio e Kevlar, la linea CT è leggera e resistente, nonché innegabilmente unica dal punto di vista estetico: la fusoliera elegante e aerodinamica è ispirata alle innovazioni di sicurezza del settore automobilistico, il tettuccio di plexiglas offre un'eccezionale visibilità alla cabina di pilotaggio, mentre le raffinate ali simili a quelle di un aliante vantano un rapporto di planata migliore rispetto alla maggior parte degli aerei e degli aeromobili sportivi leggeri certificati.<br><br>Con il modello CTSL (\"Supralight\"), Flight Design evolve la propria concezione di successo per la categoria ultraleggera della Fédération Aéronautique Internationale, senza compromessi. Questo CT utilizza un Rotax 912 per alimentare un'elica Neuform tripala composita ed è caratterizzato da rapidità a terra, velocità di ascensione, silenziosità ed efficienza. Si tratta di molto più di un semplice aereo ultraleggero sportivo: è un gioiellino da pilotare.",
+      "AIRCRAFT.UI_MANUFACTURER": "Flight Design",
+      "AIRCRAFT.UI_MODEL": "CTSL di Flight Design"
+    }
+  }
+}

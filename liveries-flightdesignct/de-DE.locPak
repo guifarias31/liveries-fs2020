@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "de-DE",
+    "Strings": {
+      "AIRCRAFT.DESCRIPTION": "Flight Design verbrachte die 1980er Jahre damit, in Deutschland Drachenflieger und Gleitschirme zu bauen, bevor das Unternehmen 1993 dazu überging, Ultraleichtflugzeuge zu konzipieren. Dann, 1996, kanalisierte das Unternehmen seine Expertise in die CT(„Composite Technology“)-Serie – eine Serie von Hochflüglern, Flugzeugen mit Dreiradfahrwerken, zweisitzigen Ultraleicht- und Leichtflugzeugen.<br><br>Seit ihrem Erscheinen galt die CT-Reihe als eine der sich in Amerika und einigen anderen Nationen rund um den Globus am besten verkaufenden speziellen Leichtflugzeuge, mit mehr als 1.900 fliegenden Maschinen in 42 Ländern. Ein Zeugnis der überragenden Designqualität, Ingenieurspräzision und Verarbeitung dieses Flugzeugs.<br><br>Primär aus Carbon und Kevlar konzipiert, ist die CT-Serie gleichermaßen leichtgewichtig wie stabil – eine ästhetische Einzigartigkeit, die durch die schlanke, aerodynamische Rumpf-„Hülse“ (die durch die Sicherheitsinnovationen der Autoindustrie inspiriert wurde), die blasenartige Haube aus Plexiglas für eine außergewöhnliche Cockpitsicht, und seiner eleganten, segelflugzeugartigen Flügel, die (vergleichen mit den meisten zertifizierten Flugzeugen und SLAs) für eine bessere Gleitzahl sorgen, abgerundet wird.<br><br>Mit dem supraleichten CTSL-Modell verbesserte Flight Design das erfolgreiche Design der Maschine für die Fédération Aéronautique Internationale in der Kategorie mikroleicht, ohne Abstriche machen zu müssen. Da ein Rotax 912 und ein dreiblättriger Kompositpropeller des Typs Neuform verwendet werden, ist diese CT nicht nur schnell auf dem Boden, sondern auch beim Aufstieg; und darüber hinaus leise und effizient. Aber das Wichtigste ist: Dieses superleichtgewichtige Flugzeug dient nicht nur zur Erholung, sondern macht auch eine Menge Spaß.",
+      "AIRCRAFT.UI_MANUFACTURER": "Flight Design",
+      "AIRCRAFT.UI_MODEL": "Flight Design CTSL"
+    }
+  }
+}

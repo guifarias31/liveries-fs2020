@@ -1,0 +1,10 @@
+{
+  "LocalisationPackage": {
+    "Language": "pt-BR",
+    "Strings": {
+      "AIRCRAFT.DESCRIPTION": "A Flight Design passou os anos 80 criando asa-deltas e paragliders na Alemanha antes de fazer a transição para aeronaves ultraleves em 1993. Então, em 1996, sua experiência foi canalizada para a série CT (\"Composite Technology\", Tecnologia Composta) de aeronaves esportivas ultraleves de asa alta, trem de pouso em triciclo e dois assentos.<br><br>Desde sua chegada, a linha CT tem sido uma das SLSA mais vendidas na América do Norte e em várias nações do mundo, com mais de 1.900 aeronaves voando em 42 países – um testemunho de sua qualidade de design, precisão de engenharia e acabamento.<br><br>Construída principalmente de fibra de carbono e Kevlar, a linha CT é leve e forte – e inegavelmente tem uma estética exclusiva, com seu \"pod\" de fuselagem aerodinâmica elegante inspirado pelas inovações de segurança da indústria automobilística, sua montagem em bola do Plexiglas para excepcional visibilidade do cockpit e sua elegante asa no estilo planador que apresenta uma razão de planeio melhor do que muitos aviões certificados e LSAs.<br><br>Com o modelo CTSL (\"Supralight\"), a Flight Design fez seu design de sucesso evoluir para a categoria microleve da Fédération Aéronautique Internationale, sem qualquer comprometimento. Utilizando um Rotax 912 para acionar uma hélice composta Neuform de três lâminas, esse CT é rápido em solo, rápido para subir, silencioso e eficiente. E o mais importante, é muito mais do que um avião superleve recreativo, é um prazer de pilotar.",
+      "AIRCRAFT.UI_MANUFACTURER": "Flight Design",
+      "AIRCRAFT.UI_MODEL": "Flight Design CTSL"
+    }
+  }
+}
