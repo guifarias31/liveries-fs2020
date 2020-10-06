@@ -1,16 +1,16 @@
 {
   "dependencies": [
     {
-      "name": "fs-base-propdefs",
-      "package_version": "0.1.2"
+      "name": "asobo-aircraft-flightdesignct",
+      "package_version": "0.1.37"
     }
   ],
   "content_type": "AIRCRAFT",
   "title": "Flight Design CTSL",
   "manufacturer": "Flight Design",
   "creator": "Asobo Studio",
-  "package_version": "0.1.33",
-  "minimum_game_version": "1.7.12",
+  "package_version": "0.1.37",
+  "minimum_game_version": "1.9.2",
   "release_notes": {
     "neutral": {
       "LastUpdate": "",
