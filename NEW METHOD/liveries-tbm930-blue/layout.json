@@ -1,0 +1,39 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-blue/aircraft.cfg",
+      "size": 2006,
+      "date": 132361718400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-blue/MODEL.BLUE/model.CFG",
+      "size": 268,
+      "date": 132361718400000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-blue/TEXTURE.BLUE/TBM_930_AIRFRAME_DECALS_ALBD.PNG.DDS",
+      "size": 2176,
+      "date": 132400219989899087
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-blue/TEXTURE.BLUE/TBM_930_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400219989879085
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-blue/TEXTURE.BLUE/texture.CFG",
+      "size": 163,
+      "date": 132144142360000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-blue/TEXTURE.BLUE/thumbnail.JPG",
+      "size": 237809,
+      "date": 132297799530000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_TBM930-blue/TEXTURE.BLUE/thumbnail_small.JPG",
+      "size": 54075,
+      "date": 132297799660000000
+    }
+  ]
+}

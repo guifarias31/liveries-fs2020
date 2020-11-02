@@ -1,0 +1,169 @@
+{
+  "content": [
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/aircraft.cfg",
+	  "size": 2028,
+	  "date": 1603467904512
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/MODEL.BLUE/model.CFG",
+	  "size": 288,
+	  "date": 1603467904512
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_AIRFRAME_BRANDING_DECALS_ALBD.TIF.DDS",
+	  "size": 136,
+	  "date": 1603312641810
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_AIRFRAME_BRANDING_DECALS_ALBD.TIF.DDS.json",
+	  "size": 119,
+	  "date": 1603312641820
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_AIRFRAME_DECALS_ALBD.PNG.DDS",
+	  "size": 699192,
+	  "date": 1603312641840
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_AIRFRAME_DECALS_ALBD.PNG.DDS.json",
+	  "size": 119,
+	  "date": 1603312641800
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_AIRFRAME_FUELCAP_ALBD.PNG.DDS",
+	  "size": 1398256,
+	  "date": 1603020289379
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_AIRFRAME_FUELCAP_ALBD.PNG.DDS.json",
+	  "size": 119,
+	  "date": 1603020289389
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+	  "size": 2097280,
+	  "date": 1603467815382
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1603020186489
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+	  "size": 136,
+	  "date": 1603020289429
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1603020289439
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_AIRFRAME_PROPELLER_BLUR.PNG.DDS",
+	  "size": 699216,
+	  "date": 1603020289449
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_AIRFRAME_PROPELLER_BLUR.PNG.DDS.json",
+	  "size": 119,
+	  "date": 1603020289459
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_AIRFRAME_PROP_SIDE.PNG.DDS",
+	  "size": 43920,
+	  "date": 1603020289469
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_AIRFRAME_PROP_SIDE.PNG.DDS.json",
+	  "size": 119,
+	  "date": 1603020289469
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_AIRFRAME_PROP_STILL_ALBD.PNG.DDS",
+	  "size": 5592560,
+	  "date": 1603020289499
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_AIRFRAME_PROP_STILL_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1603020289509
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_AIRFRAME_PROP_STILL_COMP.PNG.DDS",
+	  "size": 5592560,
+	  "date": 1603020289545
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_AIRFRAME_PROP_STILL_COMP.PNG.DDS.json",
+	  "size": 191,
+	  "date": 1603020289549
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_AIRFRAME_TAIL_ALBD.PNG.DDS",
+	  "size": 2097280,
+	  "date": 1603034210362
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_AIRFRAME_TAIL_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1603020186589
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_AIRFRAME_WINGS_ALBD.PNG.DDS",
+	  "size": 2796344,
+	  "date": 1603020186609
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1603020186619
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_COCKPIT_PANEL_ALBD.PNG.DDS",
+	  "size": 5592560,
+	  "date": 1603020289645
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_COCKPIT_PANEL_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1603020289649
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_COCKPIT_SEATS_ALBD.PNG.DDS",
+	  "size": 2796344,
+	  "date": 1603020289679
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_COCKPIT_SEATS_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1603020289689
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_COCKPIT_SUN_VISOR_ALBD.PNG.DDS",
+	  "size": 87536,
+	  "date": 1603020289689
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/BONANZA_COCKPIT_SUN_VISOR_ALBD.PNG.DDS.json",
+	  "size": 102,
+	  "date": 1603020289699
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/texture.CFG",
+	  "size": 274,
+	  "date": 1603020186659
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/thumbnail.JPG",
+	  "size": 320615,
+	  "date": 1603032577160
+	},
+	{
+	  "path": "SimObjects/Airplanes/Asobo_Bonanza_G36-blue/TEXTURE.BLUE/thumbnail_small.JPG",
+	  "size": 66781,
+	  "date": 1603032596202
+	}
+  ]
+}
